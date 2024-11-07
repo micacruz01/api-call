@@ -1,0 +1,31 @@
+body {
+    font-family: Bradley Hand, cursive;
+    background-color: #D1E8E2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    background-color: #A1D6E2;
+    padding: 20px;
+    border-radius: 8px;
+   
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color:  #1995AD;
+    color: white;
+}
+
+button:hover {
+    background-color: #E2E2E2;
+}
